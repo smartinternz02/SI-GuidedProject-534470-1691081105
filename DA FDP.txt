@@ -1,0 +1,116 @@
+Click on Menu> Select New> Select Exploration
+Click on My content> Select Superstore DataModule
+Click on Add
+
+Click on Create+ > Select Single Visualization Card
+
+Bar Chart
+Click on Choose Type> Select Bar Chart
+In Fileds:
+	Bar- Sub Category
+	Length- Revenue
+	Colors- Sub Category
+Click on three dots next to Revenue in Length and 
+Select sort> Ascending or Descending
+
+Click on Pins to add visualisation to My Pins
+
+Click on Save> Save As> SuperstoreExploration> Select My Content> Ok
+
+Pie Chart
+Segments- Day of Week
+Size- Quantity
+Slect Properties> Enable Display %
+
+Map Chart
+Location- States
+Location Color- States
+Location extrusion Height- Revenue
+Points section:
+Location- State
+Point Size- Revenue
+
+Bubble Chart
+X Axis- Year
+Y axis- Sales
+Size- Sales
+Color- Category
+
+Area Chart
+Y axis- Revenue
+X axis- Day of Week
+Color- Day of Week
+
+28/7/2023
+
+Stacked Column Chart
+Bar- Region
+Length- Revenue
+Color- Segments
+Click on three dots next to revenue and sort is Descending
+Go to Properties
+Select Show Value Labels
+Value Label Format- Percentage of Category
+
+Line Chart:
+X axis- Months
+Y -axis- Profit
+Color- Category
+
+Line and Column Chart
+X  axis-Year
+Column Length- Revenue
+Column Color- Segment/Year
+Line Position- Profit
+
+Waterfall Chart
+X-Axis-Month
+Y-axis-Sales
+Local Filter- Optional
+
+Hierachical Bubble Chart
+Bubbles- Region
+Size- Sales
+Color- Region
+Repeat(Column)- Category
+
+Word Cloud
+Word-Sub Category
+Size- Sales
+Color- Category
+
+Packed Bubble Chart
+Bubble- Sub Category
+Size- Discount
+Color- Category
+Repeat Column- Segment
+
+Tree Map
+Area Hierarchy- State
+Size- Profit
+Heat-Sales
+
+Heat Map
+Rows- Region, Sub Category
+Columns- Segment
+Heat- Sales/Profit
+Size-Profit/Sales
+
+Radial Chart
+Bar- Category
+Length- Profit
+Color- Region
+
+
+
+
+
+
+
+
+
+
+
+
+
+

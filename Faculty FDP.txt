@@ -1,0 +1,20 @@
+https://telegram.me/+gh6iTPSkN1U0NThl
+
+https://youtu.be/7xOyKl80iUk
+
+Steps to create IBM Cognos Account:
+
+Login to IBM Skill Build Account
+Click on Topics
+Select Data Science
+Scroll down Page and Select Software
+Click on Cognos Analytics on Cloud
+Select Access Now
+
+Country- India
+State- Put your State name
+Are you a Student- Yes
+College Name- Put your College Name
+Data Center- Washington
+Accept the Terms and Condition
+Click On Create

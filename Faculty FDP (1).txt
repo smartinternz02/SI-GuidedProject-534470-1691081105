@@ -1,0 +1,128 @@
+https://telegram.me/+gh6iTPSkN1U0NThl
+
+How to create Skill build Account:
+https://youtu.be/7xOyKl80iUk
+
+
+
+Steps to create IBM Cognos Account:
+
+Login to IBM Skill Build Account
+Click on Topics
+Select Data Science
+Scroll down Page and Select Software
+Click on Cognos Analytics on Cloud
+Select Access Now
+
+On IBM Cognos Account Creation Page Pass below Informations:
+Country- India
+State- Put your State name
+Are you a Student- Yes
+College Name- Put your College Name
+Data Center- Washington
+Accept the Terms and Condition
+Click On Create
+
+How to open IBM Cognos Page:
+In Google- Type- IBM Cognos
+Select first option of IBM Cognos Analytics> Put your credentials and Login
+Launch IBM Cognos Analytics
+
+26/7/2023
+IBM Cognos Signup Form:
+
+https://www.ibm.com/account/reg/us-en/signup?formid=urx-47688
+
+Email: ( Any personal Email not used before for registration on IBM)
+Name-
+last name-
+Country- India
+State- Put Your State
+
+Additional Info-
+Are you a student- mark it yes
+mention your college name
+Keep Datacentre as it is
+
+Click on Next
+Put 7 digits Code recieved on Email
+
+Accept Terms and Condition
+
+Click on next
+Put 6 digits code recieved on Email
+
+Click on Next
+
+Click on Launch once Activation in Progress is Active and Launch option is enabled
+
+
+Steps To create Data Module:
+
+Click on Menu> Click on New> Select Data Module
+Select your Dataset> Click on Ok button in Bottom of Page
+Select Table> Click on Next Button
+
+Tick Next to Superstore.xls so that all tables get selected and click on Ok
+
+
+Select Order table and click on Grid
+Removed Order Id Column by clicking on Order id and selected Remove
+
+click on Order Date and Selct split option
+Click on Year, Month , Date and Tick on Include Day of Week to get these new Column Added
+Click on Next> Click on Ok
+
+
+TO create New Column 
+Click on Sales > select Calculation> Select Use Calculator editor
+In Expression mention:
+Sales * Quantity
+Click on Validate next to Preview icon
+Rename Name on top as Revenue
+Click on OK
+
+Click on Revenue> Format Data> Drop Down Unformated> Enter 2 in Number of Decimal Places
+Click on Ok
+
+To Save Data Module:
+Click on Save icon below Menu bar>
+Put name as Superstore Datamodule
+Select My Content
+Click on Save
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
